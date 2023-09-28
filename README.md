@@ -1,4 +1,4 @@
-# Command-Line Text Editor (DLL-based) in C
+# Command-Line, Line Editor (DLL-based) in C
 
 # Line Editor in C
 
